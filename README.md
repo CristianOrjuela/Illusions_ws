@@ -20,7 +20,9 @@ Complete la tabla:
 
 ## Discusión
 
-1. Complete la la tabla
+1. Complete la tabla
+
+| __Shifted grid__    |  Geométrica         |   Presentación  *Cognitive*  (Cafe Wall)                 | On click se elimina el shift| No aplica|  
 
 | Ilusión 				           | Categoria    | Referencia         | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |----------------------------------|- ------------|--------------------|------------------------------------|-----------------------------|
