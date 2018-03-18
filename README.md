@@ -22,9 +22,9 @@ Complete la tabla:
 
 1. Complete la la tabla
 
-| Ilusión   | Categoria     | Referencia         |  Tipo de interactividad (si aplica)  | URL código base (si aplica) |
-|-----------|---------------|--------------------|--------------------------------------|-----------------------------|
-|           |               |                    |                                      |                             |
+| Ilusión       | Categoria     | Referencia         |  Tipo de interactividad (si aplica)  | URL código base (si aplica) |
+|---------------|---------------|--------------------|--------------------------------------|-----------------------------|
+|Efecto Estático|Estático-Color |https://decoracion.t| No aplica                            | No aplica                   |
 
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
