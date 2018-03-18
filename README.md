@@ -24,7 +24,7 @@ Complete la tabla:
 
 | Ilusión         | Categoria     | Referencia         |  Tipo de interactividad (si aplica)  | URL código base (si aplica) |
 |---------------- |---------------|--------------------|--------------------------------------|-----------------------------|
-|Efecto Estático  |Estático-Color |https://decoracion.trendencias.com/iluminacion/efectos-visuales-aprovecha-los-colores                    | No aplica                            |                             |
+|Efecto Estático  |Estático-Color |[Referencia1](https://decoracion.trendencias.com/iluminacion/efectos-visuales-aprovecha-los-colores)                    | No aplica                            |                             |
 |Estático-Cuadros |Estática-Inmersión| https://www.wikiart.org/uk/bridzhet-rayli/movement-in-squares-1961 |                                    |                          |                             |
 |Movimiento-Bloques|Ambigua|https://magnet.xataka.com/ciencia/13-ilusiones-visuales-que-haran-que-tu-cabeza-explote|No aplica  |                                   |
 |Efecto-Movimiento|Paradógica|http://new.math.uiuc.edu/public403/perspective/alberti/alberti.html|No aplica |               |
