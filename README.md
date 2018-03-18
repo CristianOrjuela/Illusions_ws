@@ -22,14 +22,12 @@ Complete la tabla:
 
 1. Complete la la tabla
 
-| Ilusión 				           | Categoria    | Referencia         | Tipo de interactividad (si aplica) | URL código base (si aplica) |
-|----------------------------------|- ------------|--------------------|------------------------------------|-----------------------------|
-| 1. Movimiento-Bloques            | Movimiento   |                    | El usuario puede visualizar la     |                             | | 2. Interactivo-EfectoCurvo       | Interactiva  |                    |                                    |							  | 
-| 3. Interactivo2-SuspenciónLineal | Interactiva  |          		   |                                    |                             |
-| 4. Estático-Cuadros              | Estática     | https://www.wikia  |                                    |                             |
-| 5.                               |              |            		   |                                    |                             |
-| 6.                               |              |            		   |                                    |                             |
-| 7.                               |              |                    |                                    |                             |
+| Ilusión | Categoria    | Referencia         | Tipo de interactividad (si aplica) | URL código base (si aplica) |
+|---------|- ------------|--------------------|------------------------------------|-----------------------------|
+| 1. Movim| Movimiento   |                    | El usuario puede visualizar la     |                             | 
+| 2. Inter| Interactiva  |                    |                                    |							               | 
+| 3. Inter| Interactiva  |          		      |                                    |                             |
+| 4. Estát| Estática     | https://www.wikia  |                                    |                             |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
