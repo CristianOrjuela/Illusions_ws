@@ -15,8 +15,10 @@ void draw(){
   background(255);
   fill(0);
   ellipse(width/2,height/2,140,140);
-  rect(0, height/2-85, (width), 10);
-  rect(0, height/2+75, (width), 10);
+  if (keyPressed){
+    rect(0, height/2-85, (width), 10);
+    rect(0, height/2+75, (width), 10);
+  }
   
    
    for (int i = 0; i<width; i=i+25){
