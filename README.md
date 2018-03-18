@@ -22,12 +22,10 @@ Complete la tabla:
 
 1. Complete la la tabla
 
-| Ilusión | Categoria    | Referencia         | Tipo de interactividad (si aplica) | URL código base (si aplica) |
-|---------|- ------------|--------------------|------------------------------------|-----------------------------|
-| 1. Movim| Movimiento   |                    | El usuario puede visualizar la     |                             | 
-| 2. Inter| Interactiva  |                    |                                    |							               | 
-| 3. Inter| Interactiva  |          		      |                                    |                             |
-| 4. Estát| Estática     | https://www.wikia  |                                    |                             |
+| Ilusión   | Categoria     | Referencia         |  Tipo de interactividad (si aplica)  | URL código base (si aplica) |
+|-----------|---------------|--------------------|--------------------------------------|-----------------------------|
+|           |               |                    |                                      |                             |
+
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
