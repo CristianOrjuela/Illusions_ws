@@ -22,8 +22,6 @@ Complete la tabla:
 
 1. Complete la tabla
 
-| __Shifted grid__    |  Geométrica         |   Presentación  *Cognitive*  (Cafe Wall)                 | On click se elimina el shift| No aplica|  
-
 | Ilusión         | Categoria     | Referencia         |  Tipo de interactividad (si aplica)  | URL código base (si aplica) |
 |---------------- |---------------|--------------------|--------------------------------------|-----------------------------|
 |Efecto Estático  |Estático-Color |[Referencia1](https://decoracion.trendencias.com/iluminacion/efectos-visuales-aprovecha-los-colores)                    | No aplica                            |                             |
