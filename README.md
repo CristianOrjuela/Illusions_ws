@@ -15,7 +15,7 @@ Complete la tabla:
 
 | 		Integrante 			| github nick     |
 |---------------------------|-----------------|
-| Sebasstián David Moreno   | sdmorenob       |
+| Sebastián David Moreno m  | sdmorenob       |
 | Cristian Camilo Orjuela   | CristianOrjuela |
 
 ## Discusión
