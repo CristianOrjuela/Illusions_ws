@@ -25,12 +25,12 @@ Complete la tabla:
 | Ilusión         | Categoria     | Referencia         |  Tipo de interactividad (si aplica)  | URL código base (si aplica) |
 |---------------- |---------------|--------------------|--------------------------------------|-----------------------------|
 |Efecto Estático  |Estático-Color |[Referencia1](https://decoracion.trendencias.com/iluminacion/efectos-visuales-aprovecha-los-colores)                    | No aplica                            |                             |
-|Estático-Cuadros |Estática-Inmersión| https://www.wikiart.org/uk/bridzhet-rayli/movement-in-squares-1961 |                                    |                          |                             |
-|Movimiento-Bloques|Ambigua|https://magnet.xataka.com/ciencia/13-ilusiones-visuales-que-haran-que-tu-cabeza-explote|No aplica  |                                   |
-|Efecto-Movimiento|Paradógica|http://new.math.uiuc.edu/public403/perspective/alberti/alberti.html|No aplica |               |
-|Interactivo-EfectoCurvo|Interactiva-Distorción|https://verne.elpais.com/verne/2016/01/27/articulo/1453897011_477533.html|Al oprimir una tecla, dos líneas paralelas se presentan en el canvas. |               |
-|Interactivo2-SuspenciónLineal|Interactivo-Desaparición|http://visualcomputing.github.io/Cognitive/#/5/5|Al oprimir una tecla se detalla una cuadrícula donde parece que algunas líneas se pierden. |               |
-|Efecto-Interactivo|Interactivo-Geométrico|https://www.youtube.com/watch?v=9X59yfCNyRQ|Al dar click en la pantalla aumenta el ancho de las líneas de la grilla, haciendo notar que el fondo es estático, pero a medida que se vuelve más ancha las líneas las figuras del fondo parecen desplazarse en dirección contraria a la que se desplaza la grilla|       |
+|Estático-Cuadros |Estática-Inmersión|[Referencia2](https://www.wikiart.org/uk/bridzhet-rayli/movement-in-squares-1961) |                                    |                          |                             |
+|Movimiento-Bloques|Ambigua|[Referencia3](https://magnet.xataka.com/ciencia/13-ilusiones-visuales-que-haran-que-tu-cabeza-explote)|No aplica  |                                   |
+|Efecto-Movimiento|Paradógica|[Referencia4](http://new.math.uiuc.edu/public403/perspective/alberti/alberti.html)|No aplica |               |
+|Interactivo-EfectoCurvo|Interactiva-Distorción|[Referencia5](https://verne.elpais.com/verne/2016/01/27/articulo/1453897011_477533.html)|Al oprimir una tecla, dos líneas paralelas se presentan en el canvas. |               |
+|Interactivo2-SuspenciónLineal|Interactivo-Desaparición|[Referencia6](http://visualcomputing.github.io/Cognitive/#/5/5)|Al oprimir una tecla se detalla una cuadrícula donde parece que algunas líneas se pierden. |               |
+|Efecto-Interactivo|Interactivo-Geométrico|[Referencia7](https://www.youtube.com/watch?v=9X59yfCNyRQ)|Al dar click en la pantalla aumenta el ancho de las líneas de la grilla, haciendo notar que el fondo es estático, pero a medida que se vuelve más ancha las líneas las figuras del fondo parecen desplazarse en dirección contraria a la que se desplaza la grilla|       |
 
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
