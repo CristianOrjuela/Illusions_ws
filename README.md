@@ -25,18 +25,19 @@ Complete la tabla:
 | Ilusión         | Categoria     | Referencia         |  Tipo de interactividad (si aplica)  | URL código base (si aplica) |
 |---------------- |---------------|--------------------|--------------------------------------|-----------------------------|
 |Efecto Estático  |Estático-Color |https://decoracion.trendencias.com/iluminacion/efectos-visuales-aprovecha-los-colores                    | No aplica                            |                             |
-|-----------------|---------------|--------------------|--------------------------------------|-----------------------------|
-|Estático-Cuadros | Estática      | https://www.wikiart.org/uk/bridzhet-rayli/movement-in-squares-1961 |                                    |
+|Estático-Cuadros |Estática-Inmersión| https://www.wikiart.org/uk/bridzhet-rayli/movement-in-squares-1961 |                                    | No aplica                            |                             |
+|Movimiento-Bloques|Ambigua      |http://visualcomputing.github.io/Cognitive/#/5/5|No aplica  |                             |
+|Efecto-Movimiento|Paradógica     |http://new.math.uiuc.edu/public403/perspective/alberti/alberti.html|No aplica |                             |
+
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
   **Referencias**
 
-  *Efectos Estáticos*: Las referencias encontradas en este grupo precisaban en gran medida la capacidad que tienen los ojos de percibir el movimiento o algunos efectos pardógicos a partir de los objetos inmóviles, y esto se da en mayor proporción, debido a la experiencia de la persona y las vivencias que ha tenido a lo largo de su vida. Por ejemplo, en el primer efecto descrito en la tabla anterior se pintan líneas de ancho 1 px intercaladas de color rojo y verde y al ser tan pequeñas, es poco persuasible para el ojo humano, cuestión que genera una combinación de las frecuencias de los colores, dando el efecto visual un color amarillo.
- 
- *Estático-Cuadros*: Se diseña una cuadrícula de ajedrez de diferentes proporciones con el propósito de realizar un efecto de inmersión y movimiento.
- 
- *EfectoMovimiento*: Al aumentar uno de los lados más rápido que el otro, da la sensación de encontrarse en un pasillo con estructura de tipo elíptica e irse acercando lentamente al muro final.
+| Ilusion              | Análisis |
+|  *Efectos Estáticos-Ambiguas* | Las referencias encontradas en este grupo precisaban en gran medida la capacidad que tienen los ojos de percibir el movimiento o algunos efectos pardógicos a partir de los objetos inmóviles, y esto se da en mayor proporción, debido a la experiencia de la persona y las vivencias que ha tenido a lo largo de su vida. Por ejemplo, en el primer efecto descrito en la tabla anterior se pintan líneas de ancho 1 px intercaladas de color rojo y verde y al ser tan pequeñas, es poco persuasible para el ojo humano, cuestión que genera una combinación de las frecuencias de los colores, dando el efecto visual un color amarillo. Igualmente, cuando se diseña una cuadrícula de ajedrez de diferentes proporciones, la mente por sí misma crea un efecto de inmersión y movimiento.|
+| *EfectoMovimiento - Efectos paradógicos*| La mayor variabilidad de referencias está enfocada en las ilusiones de movimiento, donde se generan efectos de mareo y distorción de la realidad, por ejemplo, en uno de los efectos anteriores, da la sensación de encontrarse en un pasillo con estructura de tipo elíptica e irse acercando lentamente al muro final, donde no hay un fin.|
+| *EfectoInteractivo*| Se visualiza en mayor medida que el material encontrado en esta clase, le brinda a los usuarios un campo de acción y relación misma con la ilusión. Y de esta forma, el vínculo profundo con el efecto es dependiente de la persona y lña cantidad de tiempo en percepción, cuestión bastante difícil de calcular. |
 
   **Temas de profundización**
   
