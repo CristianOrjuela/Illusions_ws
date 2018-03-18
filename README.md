@@ -24,13 +24,12 @@ Complete la tabla:
 
 | Ilusión 				           | Categoria    | Referencia         | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |----------------------------------|- ------------|--------------------|------------------------------------|-----------------------------|
-| 1. Movimiento-Bloques            | Movimiento   |            | El usuario puede visualizar la paridad de movimiento al oprimir la flecha arriba.        |                             |
-| 2. Interactivo-EfectoCurvo       | Interactiva  |            |                                    |
-| 3. Interactivo2-SuspenciónLineal | Interactiva  |            |                                    |                             |
-| 4. Estático-Cuadros              | Estática     | https://www.wikiart.org/uk/bridzhet-rayli/movement-in-squares-1961 |                                    |                             |
-| 5.                               |              |            |                                    |                             |
-| 6.                               |              |            |                                    |                             |
-| 7.                               |              |            |                                    |                             |
+| 1. Movimiento-Bloques            | Movimiento   |                    | El usuario puede visualizar la     |                             | | 2. Interactivo-EfectoCurvo       | Interactiva  |                    |                                    |							  | 
+| 3. Interactivo2-SuspenciónLineal | Interactiva  |          		   |                                    |                             |
+| 4. Estático-Cuadros              | Estática     | https://www.wikia  |                                    |                             |
+| 5.                               |              |            		   |                                    |                             |
+| 6.                               |              |            		   |                                    |                             |
+| 7.                               |              |                    |                                    |                             |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
